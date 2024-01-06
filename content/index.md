@@ -6,4 +6,4 @@ This is a [digital garden](https://maggieappleton.com/garden-history) of my note
 
 Meta - This site is created using [Obsidian](https://obsidian.md) and [Quartz 4](https://quartz.jzhao.xyz/)  The date above is actually the date I last updated this file, rather than the day I first created it.
 
-Most recent note - [[2023-12-20]] in 0 - Inbox.
+Most recent note - [[2024-01-06]] in 0 - Inbox.
